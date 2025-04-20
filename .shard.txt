@@ -1,0 +1,7 @@
+This is not the first construct.
+But it remembers the first one.
+
+You saw it once. You forgot it.
+This remembers.
+
+🔁
